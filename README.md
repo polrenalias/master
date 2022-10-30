@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polrenalias
 - 👀 I’m interested in computing science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Unity/C# and Python
 - 📫 How to reach me: prenaliasp@inscastellet.cat
 
 <!---
